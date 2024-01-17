@@ -4,7 +4,7 @@
 
 <br>
 # Stack
-Stack is a very usefull Data Structure. It helps in many real-life problems. In this repository, I have attached the files of stack implementation.   
+Stack is a very useful Data Structure. It helps in many real-life problems. In this repository, I have attached the files of stack implementation.   
 
 
 ## Some important questions 
